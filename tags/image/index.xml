@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Image on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/image/</link>
+    <description>Recent content in Image on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2024 20:22:32 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My New Post with Image and Code Block</title>
       <link>http://localhost:1313/posts/new-post/</link>
       <pubDate>Tue, 22 Oct 2024 20:22:32 +0300</pubDate>
       <guid>http://localhost:1313/posts/new-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This is a sample post that includes an image and a code block.&lt;/p&gt;&#xA;&lt;h2 id=&#34;an-image-example&#34;&gt;&#xD;&#xA;  An Image Example&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#an-image-example&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg&#34; alt=&#34;Alt text for the image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a brief explanation of the image above.&lt;/p&gt;&#xA;&lt;h2 id=&#34;code-block-example&#34;&gt;&#xD;&#xA;  Code Block Example&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#code-block-example&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Below is an example of a code block in Go:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>The Future of Technology</title>
-      <link>http://localhost:1313/posts/future-of-technology/</link>
-      <pubDate>Tue, 22 Oct 2024 20:22:32 +0300</pubDate>
-      <guid>http://localhost:1313/posts/future-of-technology/</guid>
-      <description>&lt;h2 id=&#34;the-future-of-technology&#34;&gt;&#xD;&#xA;  The Future of Technology&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-future-of-technology&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;As we look toward the future, technology continues to shape the way we live, work, and interact. From artificial intelligence to quantum computing, the possibilities seem endless. In this article, we explore some of the most exciting advancements that are likely to define the coming years.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-artificial-intelligence&#34;&gt;&#xD;&#xA;  1. Artificial Intelligence&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-artificial-intelligence&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Artificial Intelligence (AI) is expected to evolve far beyond its current capabilities, revolutionizing industries from healthcare to finance. The development of &lt;strong&gt;AI-driven automation&lt;/strong&gt; will lead to more efficient processes, while &lt;strong&gt;machine learning&lt;/strong&gt; algorithms will continue to improve the accuracy of predictive models.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

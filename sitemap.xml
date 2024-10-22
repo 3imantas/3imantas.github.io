@@ -2,34 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://3imantas.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/tags/future/</loc>
+    <loc>http://localhost:1313/tags/code/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/categories/futurism/</loc>
+    <loc>http://localhost:1313/tags/example/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/tags/innovation/</loc>
+    <loc>http://localhost:1313/tags/future/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/</loc>
+    <loc>http://localhost:1313/categories/futurism/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/posts/</loc>
+    <loc>http://localhost:1313/tags/image/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/innovation/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/categories/tech-insights/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/tags/technology/</loc>
+    <loc>http://localhost:1313/posts/new-post/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url><url>
-    <loc>https://3imantas.github.io/posts/future-of-technology/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-22T20:22:32+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-22T20:22:32+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech-insights/</loc>
+    <lastmod>2024-10-22T20:22:32+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2024-10-22T20:22:32+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/future-of-technology/</loc>
+    <lastmod>2024-10-22T20:22:32+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutorials/</loc>
     <lastmod>2024-10-22T20:22:32+03:00</lastmod>
   </url>
 </urlset>
